@@ -1,0 +1,65 @@
+John ibrham 25 A l0986 Quantum
+3
+Linear_Algebra c-101 3
+pPPPPPPPAAAAPPPPAAAAAAAA
+9 7 9 6 7 7 9 7 67
+Database_Management c-102 4
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_sheikh c-103 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Jane Smith 22 A l23124 Artificial_Intelligence
+2
+Artificial_Intelligence c-104 4
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_Fundamentals c-105 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+John Doe 25 A l230456 Quantum
+3
+Linear_Algebra c-101 3
+pPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Database_Management c-102 4
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_Fareed c-103 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Jane fareed 22 B l0998 Artificial_Intelligence
+2
+Artificial_Intelligence c-101 4
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_Fundamentals c-103 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+John Doe 25 A l1234 Quantum
+3
+Linear_Algebra c-101 3
+pPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Database_Management c-104 4
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_lora c-103 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Jane Smith 22 A l230666 Artificial_Intelligence
+2
+Artificial_Intelligence c-101 4
+pPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+Programming_Fundamentals c-103 2
+PPPPPPPPAAAAPPPPAAAAAAAA
+8 7 9 6 7 7 9 7 67
+ali hamza 14 a 233098 aqwer
+2
+oop m-098 2
+------------------------
+0 0 0 0 0 0 0 0 0
+0 0 0
+000000000อออออออออออออออ
+0 0 0 0 0 0 0 0 0

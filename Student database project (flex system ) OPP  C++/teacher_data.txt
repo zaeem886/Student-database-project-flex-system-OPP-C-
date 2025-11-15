@@ -1,0 +1,5 @@
+John ibrham 25 A 403 l0987 Linear_Algebra c-104 3
+Jane Smith 22 A 404 l23123 Artificial_Intelligence c-104 4
+John Doe 25 A 405 l230997 Linear_Algebra c-101 3
+zaeem zaeemm 19 J 2345 l09532 socialscience c_5362 3
+hassan mujtaba 10 f 3 l3232 dkos ew 3
